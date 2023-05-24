@@ -9,6 +9,9 @@
         <maven.compiler.target>17</maven.compiler.target>
         <sonar.organization>thirumaleshzemoso</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.exclusions>
+            src/main/java/com/luv2code/**, src/main/java/com/thirumalesh/**
+        </sonar.exclusions>
     </properties>
     <version>1.0-SNAPSHOT</version>
     <name>spring-two Maven Webapp</name>
