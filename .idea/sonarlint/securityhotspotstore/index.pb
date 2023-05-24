@@ -1,6 +1,4 @@
 
-I
-src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
 Y
 )src/main/resources/applicationContext.xml,9\d\9dd7737cba2b01f9d000df326fa8044082d0950d
 i
